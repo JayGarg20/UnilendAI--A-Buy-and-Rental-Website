@@ -1,0 +1,8 @@
+{
+  "short_name": "UniLend",
+  "name": "UniLend AI",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
